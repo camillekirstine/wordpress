@@ -49,7 +49,7 @@ if ( ! function_exists('CE_styles') ) :
         'primary' => __('Primary Menu', 'Menu')
     ));
 
-    add_image_size('small-thumbnail', 180, 120, true);    
+    
     }
 endif;
 
